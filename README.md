@@ -33,7 +33,3 @@ pip install pyautogui
 - Ensure the correct serial port is specified in the Python script.
 - Check the connections of the potentiometers.
 - If using **PyAutoGUI**, ensure you have the necessary permissions to control the mouse.
-
----
-
-Feel free to modify any sections to better fit your project specifics or add any additional information that may be relevant!
